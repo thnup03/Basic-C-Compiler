@@ -1,0 +1,18 @@
+BASIC C COMPILER
+✓ Found #include
+✓ Found main()
+Entering main body
+✓ Variable 'a' declared as int
+  Assigning int 5 to int a
+✓ Variable 'b' declared as float
+  Assigning float 5.5 to float b
+✓ Variable 'c' declared as char
+  Assigning char 'A' to char c
+✓ Found return
+Exiting main body
+
+ Final Report 
+✓ Has #include
+✓ Has main()
+✓ Has return
+Status: compiled: no error
